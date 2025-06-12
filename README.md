@@ -31,7 +31,7 @@ This project simulates a complex enterprise-grade network using **Cisco Packet T
 ## **🚀 Installation & Setup**  
 1. **Clone the Repository** (if applicable):  
    ```bash  
-   git clone [https://github.com/habib-here/Advanced-Network-Simulation-Integrating-EIGRP-OSPF-RIP-with-VLSM-NAT-ACLs.git]  
+   git clone https://github.com/habib-here/Advanced-Network-Simulation-Integrating-EIGRP-OSPF-RIP-with-VLSM-NAT-ACLs.git  
    ```  
 2. **Open in Cisco Packet Tracer**:  
    - Download the `.pkt` file (i.e., `Advanced-Network-Simulation-Habib.pkt`).  
@@ -72,6 +72,6 @@ This project is open-source under the [MIT License](LICENSE).
 ## **🎯 Conclusion**  
 A hands-on demonstration of **enterprise network design**, emphasizing protocol interoperability, efficient resource allocation, and security. Ideal for portfolios, interviews, or academic reference.  
 
-**🔗 Connect**: [https://www.linkedin.com/in/habib-here/] | **📧 Contact**: [habibahmedmalik1@gmail.com]  
+**🔗 Connect**: https://www.linkedin.com/in/habib-here/ | **📧 Contact**: habibahmedmalik1@gmail.com
 
 --- 
