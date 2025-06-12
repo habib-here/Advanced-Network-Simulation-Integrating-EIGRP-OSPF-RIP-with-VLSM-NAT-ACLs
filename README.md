@@ -72,6 +72,9 @@ This project is open-source under the [MIT License](LICENSE).
 ## **🎯 Conclusion**  
 A hands-on demonstration of **enterprise network design**, emphasizing protocol interoperability, efficient resource allocation, and security. Ideal for portfolios, interviews, or academic reference.  
 
-**🔗 Connect**: https://www.linkedin.com/in/habib-here/ | **📧 Contact**: habibahmedmalik1@gmail.com
+**🔗 Connect**:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/habib-here/) 
 
+**📧 Contact**:
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail)](mailto:habibahmedmalik1@gmail.com)
 --- 
