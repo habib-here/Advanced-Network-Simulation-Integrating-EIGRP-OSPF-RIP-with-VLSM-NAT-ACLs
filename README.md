@@ -1,4 +1,4 @@
-# **Multi-Protocol Network Simulation with VLSM, NAT & ACLs**  
+# **Advanced Network Simulation: Integrating EIGRP/OSPF/RIP with VLSM, NAT & ACLs**  
 
 ## **📌 Project Description**  
 This project simulates a complex enterprise-grade network using **Cisco Packet Tracer**, integrating multiple routing protocols (**EIGRP, OSPF, RIP**) with route redistribution, **VLSM subnetting**, **DHCP**, **NAT**, and **ACLs** for secure traffic filtering. Designed for network engineering students and professionals, it demonstrates scalable network design, dynamic IP allocation, and controlled service access.  
